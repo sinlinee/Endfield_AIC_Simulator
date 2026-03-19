@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Vue App</title>
+  <rect width="64" height="64" rx="16" fill="#0f172a" />
+  <path d="M32 11 13 11l19 33 19-33H32Z" fill="#41b883" />
+  <path d="M32 20 20.8 20 32 39.3 43.2 20H32Z" fill="#34495e" />
+</svg>
